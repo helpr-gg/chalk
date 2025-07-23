@@ -1,0 +1,11 @@
+{
+  "name": "@helpr/chalk",
+  "version": "1.0.0",
+  "description": "Chalk for Helpr",
+  "license": "MIT",
+  "main": "source",
+  "files": [
+    "source",
+    "index.d.ts"
+  ]
+}
