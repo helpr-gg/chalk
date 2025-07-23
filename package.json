@@ -1,6 +1,6 @@
 {
   "name": "@helpr/chalk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Chalk for Helpr",
   "license": "MIT",
   "main": "source",
