@@ -1,6 +1,6 @@
 'use strict';
-const ansiStyles = require('../ansi-styles-index');
-const { stdout: stdoutColor, stderr: stderrColor } = require('../supports-color');
+const ansiStyles = require('../helpers/ansi-styles-index');
+const { stdout: stdoutColor, stderr: stderrColor } = require('../helpers/supports-color-index');
 const { stringReplaceAll, stringEncaseCRLFWithFirstIndex } = require('./util');
 
 const { isArray } = Array;
